@@ -9,4 +9,4 @@ A better approach is to give the student a clear view of the matter to master in
 
 Armed with this bird's-eye view the student would have grasped the big picture and will understand how all the pieces fit together. 
 
-The guide must not shy away or gloss over the "difficult" parts as this leads to anxiety when these issues are suddenly introduced in other sources in overly complex examples. 
+The guide must not shy away or gloss over the "difficult" parts as this leads to anxiety when these issues are suddenly introduced in other sources in overly complex ways. 
